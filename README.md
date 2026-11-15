@@ -1,11 +1,5 @@
 # LA PASION ON TOP
 
-[Sign in and registration](#sign-in-and-registration) · [Staff workspace](#staff-workspace) · [Customer account and shopping](#customer-account-and-shopping)
-
-## Desktop screenshot gallery
-
-40 desktop captures at a 1440-pixel viewport. The records shown are fictional sample data from a separate demonstration database. Mobile layouts are checked separately; this gallery contains desktop views only.
-
 ## Sign in and registration
 
 ### Staff sign in

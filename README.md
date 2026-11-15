@@ -1,9 +1,5 @@
 # LA PASION ON TOP
 
-La pasión is a Laravel point-of-sale application with inventory, staff and customer accounts, pickup orders, sales history, and printable receipts.
-
-Built with Laravel 13, Blade, Eloquent, MySQL/MariaDB, native CSS, and JavaScript.
-
 [Sign in and registration](#sign-in-and-registration) · [Staff workspace](#staff-workspace) · [Customer account and shopping](#customer-account-and-shopping)
 
 ## Desktop screenshot gallery
